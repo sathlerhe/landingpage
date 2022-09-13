@@ -4,7 +4,7 @@ import { useMediaQuery } from "@react-hook/media-query";
 
 import { media } from "../../../../stitches.config";
 import { Container } from "./styles";
-import HouseMoney from "../../../../assets/svgs/house-money-icon.svg";
+import HouseMoney from "../../../../public/assets/svgs/house-money-icon.svg";
 import Tabs from "./Tabs";
 import TabsMobile from "./TabsMobile";
 

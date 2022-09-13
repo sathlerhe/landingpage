@@ -2,8 +2,8 @@ import { ReactNode } from "react";
 import { Col, Container as GridContainer, Row } from "react-grid-system";
 
 import { Container, FooterSection, FooterLinks, FooterSm, LogoTxt } from "./styles";
-import Instagram from "../../../../assets/svgs/instagram.svg";
-import Facebook from "../../../../assets/svgs/facebook.svg";
+import Instagram from "../../../../public/assets/svgs/instagram.svg";
+import Facebook from "../../../../public/assets/svgs/facebook.svg";
 import Partnership from "./Partnership";
 import Link from "next/link";
 import Logo from "../../../components/Logo";

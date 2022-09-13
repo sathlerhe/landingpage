@@ -24,7 +24,7 @@ const AboutSection: React.FC = () => {
         width="1168px"
         height="1046px"
         className="image__form"
-        src="/imgs/image-form.webp"
+        src="/assets/imgs/image-form.webp"
         alt="beach house"
       />
       <Form>

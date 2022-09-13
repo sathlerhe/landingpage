@@ -14,7 +14,8 @@ const AboutSection: React.FC = () => {
         width="1200px"
         height="750px"
         className="image__about"
-        src="/imgs/casa-about.webp"
+        src="/assets/imgs/casa-about.webp"
+        priority
         alt="house"
       />
       {isMobile ? (

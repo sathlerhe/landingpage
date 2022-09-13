@@ -28,7 +28,7 @@ const FindSection: React.FC = () => {
 
   const houses = [
     {
-      img: '/imgs/house_card.webp',
+      img: '/assets/imgs/house_card.webp',
       price: 600000,
       local: 'São José dos Campos, SP',
       title: 'Maresias',
@@ -38,30 +38,30 @@ const FindSection: React.FC = () => {
       area: 1000,
     },
     {
-      img: '/imgs/house_card.webp',
+      img: '/assets/imgs/house_card.webp',
       price: 600000,
       local: 'São José dos Campos, SP',
-      title: 'Maresias',
+      title: 'Maré',
       description:
         'Casa a 70m da praia, condomínio fechado com piscina, churrasqueira e área de esportes.',
       suite: 5,
       area: 1000,
     },
     {
-      img: '/imgs/house_card.webp',
+      img: '/assets/imgs/house_card.webp',
       price: 600000,
       local: 'São José dos Campos, SP',
-      title: 'Maresias',
+      title: 'Sias',
       description:
         'Casa a 70m da praia, condomínio fechado com piscina, churrasqueira e área de esportes.',
       suite: 5,
       area: 1000,
     },
     {
-      img: '/imgs/house_card.webp',
+      img: '/assets/imgs/house_card.webp',
       price: 600000,
       local: 'São José dos Campos, SP',
-      title: 'Maresias',
+      title: 'Casa de praia',
       description:
         'Casa a 70m da praia, condomínio fechado com piscina, churrasqueira e área de esportes.',
       suite: 5,

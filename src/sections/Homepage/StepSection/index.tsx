@@ -1,10 +1,10 @@
 import React from 'react';
 import { Col, Container as GridContainer, Row } from 'react-grid-system';
 
-import DrinkSvg from '../../../../assets/svgs/drinks-icon.svg';
-import HouseSvg from '../../../../assets/svgs/house-money-icon.svg';
-import BoxSvg from '../../../../assets/svgs/open-box-icon.svg';
-import HeartSvg from '../../../../assets/svgs/heart-icon.svg';
+import DrinkSvg from '../../../../public/assets/svgs/drinks-icon.svg';
+import HouseSvg from '../../../../public/assets/svgs/house-money-icon.svg';
+import BoxSvg from '../../../../public/assets/svgs/open-box-icon.svg';
+import HeartSvg from '../../../../public/assets/svgs/heart-icon.svg';
 import { Container, StepsContainer, GrayBlock } from './styles';
 import Step from './Step';
 
